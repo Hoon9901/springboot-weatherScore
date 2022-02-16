@@ -1,9 +1,9 @@
-package com.example.weatherscore.model.entity.info;
+package com.example.weatherscore.entity;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
-import lombok.*;
-
-import java.util.List;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+import lombok.ToString;
 
 @Getter
 @Setter

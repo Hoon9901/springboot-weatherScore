@@ -1,4 +1,4 @@
-package com.example.weatherscore.model.entity.info;
+package com.example.weatherscore.entity;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

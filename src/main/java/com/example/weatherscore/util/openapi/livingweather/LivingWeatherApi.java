@@ -1,7 +1,7 @@
 package com.example.weatherscore.util.openapi.livingweather;
 
 
-import com.example.weatherscore.model.entity.info.LivingWeatherInfo;
+import com.example.weatherscore.entity.LivingWeatherInfo;
 import com.example.weatherscore.util.openapi.OpenApiUtil;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

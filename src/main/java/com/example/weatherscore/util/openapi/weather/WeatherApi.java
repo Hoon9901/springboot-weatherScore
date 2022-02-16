@@ -1,6 +1,6 @@
 package com.example.weatherscore.util.openapi.weather;
 
-import com.example.weatherscore.model.entity.info.WeatherInfo;
+import com.example.weatherscore.entity.WeatherInfo;
 import com.example.weatherscore.util.openapi.OpenApiUtil;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.RequiredArgsConstructor;

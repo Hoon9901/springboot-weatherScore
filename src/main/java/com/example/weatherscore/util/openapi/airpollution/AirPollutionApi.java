@@ -1,6 +1,6 @@
 package com.example.weatherscore.util.openapi.airpollution;
 
-import com.example.weatherscore.model.entity.info.AirPollutionInfo;
+import com.example.weatherscore.entity.AirPollutionInfo;
 import com.example.weatherscore.util.openapi.OpenApiUtil;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
